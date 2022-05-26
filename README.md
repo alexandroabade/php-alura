@@ -1,2 +1,1 @@
-# php-alura
-Alura's First Steps PHP Course
+# Alura's First Steps PHP Course
