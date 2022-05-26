@@ -9,4 +9,4 @@ $doisaocubo = 2 ** 3;
 
 $resultadoDaDivisao = 10 % 3;
 
-echo $restoDaDivisao;
+echo $resultadoDaDivisao;
